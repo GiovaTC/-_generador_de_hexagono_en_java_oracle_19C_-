@@ -109,7 +109,7 @@ public class HexagonoGUI extends JFrame {
     private JTextArea area;
     private JTextField txtTamano;
 
-    private HexagonoService service = new HexagonoService();
+    private HexagonoService servicio = new HexagonoService();
     private HexagonoDAO dao = new HexagonoDAO();
 
     public HexagonoGUI() {
@@ -144,7 +144,7 @@ public class HexagonoGUI extends JFrame {
         try {
             int n = Integer.parseInt(txtTamano.getText());
 
-            String resultado = service.generarHexagono(n);
+            String resultado = servicio.generarHexagono(n);
             area.setText(resultado);
 
             // Guardar en BD
