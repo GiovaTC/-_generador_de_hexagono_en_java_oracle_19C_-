@@ -1,7 +1,9 @@
 # -_generador_de_hexagono_en_java_oracle_19C_- :.
 🧩 Generador de Hexágono en Java + Oracle 19c:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c8d83ff6-5761-4626-8199-ad93c1a7aa45" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c8d83ff6-5761-4626-8199-ad93c1a7aa45" />    
+
+<img width="2550" height="1079" alt="image" src="https://github.com/user-attachments/assets/1afa4cd2-29a6-4da4-97eb-4e227b9090cb" />    
 
 ```
 📐 Arquitectura Propuesta:
